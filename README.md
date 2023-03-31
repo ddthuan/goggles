@@ -38,5 +38,18 @@
     <td><img src="https://github.com/ddthuan/goggles/blob/master/show_img/defect_type/dust_spot.png?raw=true" /></td>
   </tr>
 
+<br>
+<br>
+
+<h1>Labeling</h1>
+<img src="https://github.com/ddthuan/goggles/blob/master/show_img/spotlight.png?raw=true" />
+<img src="https://github.com/ddthuan/goggles/blob/master/show_img/stain_1.png?raw=true" />
+<img src="https://github.com/ddthuan/goggles/blob/master/show_img/watermark.png?raw=true" />
+
+<img src="https://github.com/ddthuan/goggles/blob/master/show_img/axonv2_108.jpeg?raw=true" />
+<img src="https://github.com/ddthuan/goggles/blob/master/show_img/1_label.png?raw=true" />
+
+
+
 
 
