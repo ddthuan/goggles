@@ -37,6 +37,7 @@
     <td><img src="https://github.com/ddthuan/goggles/blob/master/show_img/defect_type/dust_line.png?raw=true" /></td>
     <td><img src="https://github.com/ddthuan/goggles/blob/master/show_img/defect_type/dust_spot.png?raw=true" /></td>
   </tr>
+</table>
 
 <br>
 <br>
