@@ -43,6 +43,9 @@
 <br>
 
 <h1>Labeling</h1>
+<img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/11.jpg?raw=true" />
+
+<h2> Synthetic Data</h2>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/spotlight.png?raw=true" />
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/stain_1.png?raw=true" />
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/watermark.png?raw=true" />
