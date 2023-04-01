@@ -46,8 +46,6 @@
 <h1>Labeling</h1>
 <h2>The initial dataset</h2>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/13.jpg?raw=true" />
-<br>
-
 <h4>The statistics of the number of defects in the initial dataset</h4>
 <table>
   <tr>
@@ -75,15 +73,15 @@
     <td colspan="6">11792</td>
   </tr>
 </table>
-
+<br>
 
 <h2> The synthetic Data</h2>
-<h5>The idea comes from <a href="https://github.com/LinkedAi/flip">Flip</a>. The rare defects like Spotline, Stain, Watermark will generated more </h5>
-<h4>The small batch of the <b>spotline</b> objects</h4>
+<h5>The idea comes from <a href="https://github.com/LinkedAi/flip">Flip</a>. The rare defects like Spotline, Stain, Watermark will generated more. </h5>
+<h5>The small batch of the <b>spotline</b> objects</h5>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/spotlight.png?raw=true" />
-<h4>The small batch of the <b>stain</b> objects</h4>
+<h5>The small batch of the <b>stain</b> objects</h5>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/stain_1.png?raw=true" />
-<h4>The small batch of the watermark objects</h4>
+<h5>The small batch of the watermark objects</h5>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/watermark.png?raw=true" />
 
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/axonv2_108.jpeg?raw=true" />
