@@ -83,8 +83,10 @@
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/stain_1.png?raw=true" />
 <h5>The small batch of the Watermark objects</h5>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/watermark.png?raw=true" />
-
+<br>
+<h5>The synthetic image</h5>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/axonv2_108.jpeg?raw=true" />
+<h5>Labeling the synthetic data by Labelme tool</h5>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/1_label.png?raw=true" />
 
 <h4>The statistics of the number of defects in the <b>synthenic</b> dataset</h4>
