@@ -169,7 +169,7 @@ Combining Faster R-CNN, FPN, and MobileNetV3 in object detection involves the fo
 <ul>
   <li><strong>Replace the backbone network: </strong>Substitute the default backbone network (ResNet) in Faster R-CNN with MobileNetV3. This change will reduce the model's computational requirements while maintaining its ability to extract high-level features.</li>
   <li><strong>Integrate FPN:</strong> Incorporate the FPN architecture into the modified Faster R-CNN model. Connect the MobileNetV3 backbone to the FPN, enabling the model to generate multi-scale feature maps that improve detection performance across various object scales.</li>
-  <li><strong>Train and fine-tune: <<strong>strong>Train the combined model on an object detection dataset. Fine-tune the model to adapt it to the specific task and dataset.</li>
+  <li><strong>Train and fine-tune: <strong>strong>Train the combined model on an object detection dataset. Fine-tune the model to adapt it to the specific task and dataset.</li>
 </ul>
 </p>
 <p>
