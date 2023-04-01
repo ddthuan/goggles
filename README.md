@@ -45,7 +45,8 @@
 <h1>Labeling</h1>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/13.jpg?raw=true" />
 <br>
-<h1>Defect Type</h1>
+
+<h3>The statistics of the number of defects in the dataset</h3>
 <table>
   <tr>
     <td><b>Defect Type</b></td>
@@ -67,7 +68,10 @@
     <td>7292</td>
     <td>1898</td>    
   </tr>
-  
+  </tr>
+    <td><b>Total</b></td>
+    <td colspan="6">11792</td>
+  </tr>
 </table>
 
 
