@@ -144,7 +144,8 @@
     <td colspan="6">15186</td>
   </tr>
 </table>
-
+<br>
+<br>
 <h1>Methodology</h1>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/05.jpg?raw=true" />
 <br>
