@@ -112,7 +112,7 @@
   </tr>
   </tr>
     <td><b>Total</b></td>
-    <td colspan="6">11792</td>
+    <td colspan="6">3394</td>
   </tr>
 </table>
 
