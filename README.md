@@ -15,11 +15,11 @@
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/light.jpg?raw=true" />
 
 
-<h1>Capture image and ROI</h1>
+<h3>Capture image and ROI</h3>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/11.jpg?raw=true" />
 <a href="https://github.com/ddthuan/goggles/blob/master/Capture_Image/get_image_roi.py">Script</a>
 
-<h1>Defect Type</h1>
+<h3>Defect Type</h3>
 <table>
   <tr>
     <th>Scratch</th>
