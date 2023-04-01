@@ -152,7 +152,7 @@
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/15.jpg?raw=true" />
 
 <p>
-Combining Faster R-CNN, Feature Pyramid Network (FPN), and MobileNetV3 in object detection results in a lightweight, efficient, and accurate model that can perform well on defect detection tasks. By integrating these three components, the model can leverage their strengths to achieve fast and precise object detection.
+Combining Faster R-CNN, Feature Pyramid Network (FPN), and MobileNetV3 in object detection results in a lightweight, efficient, and accurate model that can perform well on defect detection tasks. By integrating these three components, the model can leverage their strengths to achieve fast and precise defect detection.
 </p?
 <p>
 <ul>
