@@ -8,6 +8,7 @@
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/08.jpg?raw=true" />
 <br>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/09.jpg?raw=true" />
+<img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/system4.png?raw=true" />
 <br>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/07.jpg?raw=true" />
 
@@ -46,7 +47,7 @@
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/13.jpg?raw=true" />
 <br>
 
-<h3>The statistics of the number of defects in the dataset</h3>
+<h3>The statistics of the number of defects in the initial dataset</h3>
 <table>
   <tr>
     <td><b>Defect Type</b></td>
