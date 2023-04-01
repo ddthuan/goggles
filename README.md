@@ -15,9 +15,9 @@
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/light.jpg?raw=true" />
 
 
-<h3>Capture image and ROI</h3> <a href="https://github.com/ddthuan/goggles/blob/master/Capture_Image/get_image_roi.py">Script</a>
+<h3>Capture image and ROI</h3>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/11.jpg?raw=true" />
-
+<a href="https://github.com/ddthuan/goggles/blob/master/Capture_Image/get_image_roi.py">Script</a>
 
 <h3>Defect Type</h3>
 <table>
