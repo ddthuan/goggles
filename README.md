@@ -88,7 +88,61 @@
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/axonv2_108.jpeg?raw=true" />
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/1_label.png?raw=true" />
 
+<h4>The statistics of the number of defects in the <b>synthenic</b> dataset</h4>
+<table>
+  <tr>
+    <td><b>Defect Type</b></td>
+    <th>Scratch</th>
+    <th>Watermark</th>
+    <th>Spotlight</th>
+    <th>Stain</th>
+    <th>Dust-line</th>
+    <th>Dust-spot</th>
 
+  </tr>
+  
+  <tr>
+    <td><b>Number</b></td>
+    <td>0</td>
+    <td>973</td>
+    <td>1093</td>
+    <td>1328</td>
+    <td>0</td>
+    <td>0</td>    
+  </tr>
+  </tr>
+    <td><b>Total</b></td>
+    <td colspan="6">11792</td>
+  </tr>
+</table>
+
+<h4>The statistics of the number of defects in the combined dataset</h4>
+<table>
+  <tr>
+    <td><b>Defect Type</b></td>
+    <th>Scratch</th>
+    <th>Watermark</th>
+    <th>Spotlight</th>
+    <th>Stain</th>
+    <th>Dust-line</th>
+    <th>Dust-spot</th>
+
+  </tr>
+  
+  <tr>
+    <td><b>Number</b></td>
+    <td>1972</td>
+    <td>1093</td>
+    <td>1322</td>
+    <td>1609</td>
+    <td>7292</td>
+    <td>1898</td>    
+  </tr>
+  </tr>
+    <td><b>Total</b></td>
+    <td colspan="6">15186</td>
+  </tr>
+</table>
 
 
 
