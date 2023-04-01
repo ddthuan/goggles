@@ -44,6 +44,32 @@
 
 <h1>Labeling</h1>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/13.jpg?raw=true" />
+<br>
+<h1>Defect Type</h1>
+<table>
+  <tr>
+    <td><b>Defect Type</b></td>
+    <th>Scratch</th>
+    <th>Watermark</th>
+    <th>Spotlight</th>
+    <th>Stain</th>
+    <th>Dust-line</th>
+    <th>Dust-spot</th>
+
+  </tr>
+  
+  <tr>
+    <td><b>Number</b></td>
+    <td>1972</td>
+    <td>120</td>
+    <td>229</td>
+    <td>281</td>
+    <td>7292</td>
+    <td>1898</td>    
+  </tr>
+  
+</table>
+
 
 <h2> Synthetic Data</h2>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/spotlight.png?raw=true" />
