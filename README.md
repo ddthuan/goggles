@@ -146,8 +146,8 @@
 </table>
 
 <h1>Methodology</h1>
-<img src="https://github.com/ddthuan/goggles/blob/master/show_img/5.jpg?raw=true" />
+<img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/5.jpg?raw=true" />
 <br>
-<img src="https://github.com/ddthuan/goggles/blob/master/show_img/15.jpg?raw=true" />
+<img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/15.jpg?raw=true" />
 
 
