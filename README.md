@@ -43,8 +43,8 @@
 <br>
 <br>
 
-<h1>Labeling</h1>
-<h2>The initial dataset</h2>
+<h1>Dataset</h1>
+<h2>Labeling the initial dataset by Labelme </h2>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/13.jpg?raw=true" />
 <h4>The statistics of the number of defects in the initial dataset</h4>
 <table>
