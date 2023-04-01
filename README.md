@@ -44,10 +44,11 @@
 <br>
 
 <h1>Labeling</h1>
+<h2>The initial dataset</h2>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/img_select/13.jpg?raw=true" />
 <br>
 
-<h3>The statistics of the number of defects in the initial dataset</h3>
+<h4>The statistics of the number of defects in the initial dataset</h4>
 <table>
   <tr>
     <td><b>Defect Type</b></td>
