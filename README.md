@@ -163,7 +163,7 @@ Combining Faster R-CNN, Feature Pyramid Network (FPN), and MobileNetV3 in object
 </p>
 
 <p>
-Combining Faster R-CNN, FPN, and MobileNetV3 in object detection involves the following steps:
+Combining Faster R-CNN, FPN, and MobileNetV3 in defect detection involves the following steps:
 </p>
 <p>
 <ul>
