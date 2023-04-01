@@ -76,12 +76,12 @@
 <br>
 
 <h2> The synthetic Data</h2>
-<h5>The idea comes from <a href="https://github.com/LinkedAi/flip">Flip</a>. The rare defects like Spotline, Stain, Watermark will generated more. </h5>
-<h5>The small batch of the <b>spotline</b> objects</h5>
+<h5>The idea comes from <a href="https://github.com/LinkedAi/flip">Flip</a>. The rare defects like Spotlight, Stain, Watermark will generated more. </h5>
+<h5>The small batch of the <b>Spotlight</b> objects</h5>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/spotlight.png?raw=true" />
-<h5>The small batch of the <b>stain</b> objects</h5>
+<h5>The small batch of the <b>Stain</b> objects</h5>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/stain_1.png?raw=true" />
-<h5>The small batch of the watermark objects</h5>
+<h5>The small batch of the Watermark objects</h5>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/watermark.png?raw=true" />
 
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/axonv2_108.jpeg?raw=true" />
