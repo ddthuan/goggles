@@ -77,11 +77,11 @@
 
 
 <h2> The synthetic Data</h2>
-<h3>The small batch of the <b>spotline</b> objects</h3>
+<h4>The small batch of the <b>spotline</b> objects</h4>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/spotlight.png?raw=true" />
-<h3>The small batch of the <b>stain</b> objects</h3>
+<h4>The small batch of the <b>stain</b> objects</h4>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/stain_1.png?raw=true" />
-<h3>The small batch of the watermark objects</h3>
+<h4>The small batch of the watermark objects</h4>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/watermark.png?raw=true" />
 
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/axonv2_108.jpeg?raw=true" />
