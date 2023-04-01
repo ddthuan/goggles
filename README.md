@@ -78,6 +78,7 @@
 
 
 <h2> The synthetic Data</h2>
+<h5>The idea comes from <a href="https://github.com/LinkedAi/flip">Flip</a></h5>
 <h4>The small batch of the <b>spotline</b> objects</h4>
 <img src="https://github.com/ddthuan/goggles/blob/master/show_img/spotlight.png?raw=true" />
 <h4>The small batch of the <b>stain</b> objects</h4>
