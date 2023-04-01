@@ -173,5 +173,5 @@ Combining Faster R-CNN, FPN, and MobileNetV3 in object detection involves the fo
 </ul>
 </p>
 <p>
-The model combines Faster R-CNN, FPN, and MobileNetV3, will offer a balance between accuracy and computational efficiency. It will be suitable for object detection tasks that require real-time performance, particularly on devices with limited computational resources, such as mobile phones and edge devices.
+The model combines Faster R-CNN, FPN, and MobileNetV3, will offer a balance between accuracy and computational efficiency. It will be suitable for defect detection tasks that require real-time performance, particularly on devices with limited computational resources, such as mobile phones and edge devices.
 </p>
